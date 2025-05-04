@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/YOUR_USERNAME/nginx-demo.git  # Change to your repo
+    repoURL: https://github.com/springmuffin/argo-demo.git  # Change to your repo
     targetRevision: HEAD
     path: .  # Assuming k8s.yaml is at the root of the repo
   destination:
